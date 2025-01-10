@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rest Framework**
 
-- 👨‍💻 All of my projects are available at [This Profile](This Profile)
+- 👨‍💻 All of my projects are available at [This Profile]
 
 - 📝 I regularly write articles on [....](....)
 
