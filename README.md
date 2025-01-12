@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayyappajith</h1>
 <div align="center">
-<img src="https://github.com/AYJ01/Media/blob/main/Animation%20-%201736707590671.gif?raw=true" width="20%">
+<img src="https://github.com/AYJ01/Media/blob/main/Animation%20-%201736707829389%20(2).gif?raw=true" width="20%">
 </div>
 <h3 align="center">Python Django Developer from Kerala, India, bringing unmatched expertise, sharp instincts, and relentless efficiency to every project.</h3>
 
