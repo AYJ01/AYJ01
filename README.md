@@ -1,21 +1,25 @@
+
 <h1 align="center">Hi 👋, I'm Ayyappajith</h1>
+<div align="center">
+<img src="https://cdn.weasyl.com/static/media/98/3c/d1/983cd155a7f2a2e914a1ed298aed245d4e702e05fbc3a9558dd93d3679dce765.gif" width="20%">
+</div>
 <h3 align="center">Python Django Developer from Kerala, India, bringing unmatched expertise, sharp instincts, and relentless efficiency to every project.</h3>
 
-- 🔭 I’m currently working on **AI Summary Generator**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Rest Framework**
+- 🌱 I’m currently learning **Data Structures**
 
 - 👨‍💻 All of my projects are available at [This Profile]
 
-- 📝 I regularly write articles on [....](....)
+- 📝 I regularly write articles 
 
 - 💬 Ask me about **Django,Python,Frontend**
 
 - 📫 How to reach me **ayjayj734@gmail.com**
 
-- 📄 Know about my experiences [....](....)
+- 📄 Intrested In Web Development
 
-- ⚡ More **Intrested in Java too**
+- ⚡ **Developer** and **Tutor** at Lcc Alwaye
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,4 +53,9 @@
 </p>
 <h3 align="left">Tools & Libraries :</h3>
 <p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://github.com/AYJ01/Media/blob/main/Animation%20-%201736706026618%20(1).gif?raw=true" width="20%" >
+</div>
 
+<h5 align="center">IF YOU WANT TO CONTACT ME USE GMAIL GIVEN ABOVE OR  USE  ayyappajithts@gmail.com</h5>
+<h3 align="center">Add ⭐ to Follow</h3>
