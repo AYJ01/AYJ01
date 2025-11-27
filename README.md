@@ -3,7 +3,7 @@ Kerala, India
 *I build fast backends, clean frontends, and ship features like it’s a sport.*
 
 <div align="center">
-  <img src="https://github.com/AYJ01/Media/blob/main/image-processing20191228-5210--unscreen.gif?raw=true" width="35%"/>
+  <img src="https://github.com/AYJ01/Media/blob/main/Loading%20rocket.gif" width="10%"/>
 </div>
 
 ---
